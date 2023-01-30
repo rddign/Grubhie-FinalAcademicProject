@@ -1,10 +1,10 @@
 # Grubhie
 ## App Description
-### The world has evolved a lot since the birth of technology and the development of computers. Navigating the streets of unrecognizable cities; knowing the species of unfamiliar plants; conquering the academic papers - problems that seemed impossible to solve - inspired the minds of humans to create not only functional but stunning applications. Why should the kitchen problems be any different? Introducing your latest all-around kitchen helper, Grubhie.
+#### The world has evolved a lot since the birth of technology and the development of computers. Navigating the streets of unrecognizable cities; knowing the species of unfamiliar plants; conquering the academic papers - problems that seemed impossible to solve - inspired the minds of humans to create not only functional but stunning applications. Why should the kitchen problems be any different? Introducing your latest all-around kitchen helper, Grubhie.
 
-### Grubhie is an application that allows its users to formulate delicious recipes based on ingredients they already have in their kitchen, national cuisines of their taste, and even the type of dish they want to make. Moreover, Grubhie allows its users to store their favorite recipes in the application's database, so they will not need to search for their favorite meals over and over again. Grubhie's randomization system helps its users brainstorm their next signature dish by presenting them with an array of popular and mouth-watering meals from all over the world. To top that off, Grubhie's built-in shopping list function allows users to store their next grocery itinerary, solving the problem of unwise budgeting when going to the market.
+#### Grubhie is an application that allows its users to formulate delicious recipes based on ingredients they already have in their kitchen, national cuisines of their taste, and even the type of dish they want to make. Moreover, Grubhie allows its users to store their favorite recipes in the application's database, so they will not need to search for their favorite meals over and over again. Grubhie's randomization system helps its users brainstorm their next signature dish by presenting them with an array of popular and mouth-watering meals from all over the world. To top that off, Grubhie's built-in shopping list function allows users to store their next grocery itinerary, solving the problem of unwise budgeting when going to the market.
 
-### With these solutions that Grubhie has to offer, achieving kitchen prowess is just a few clicks away.
+#### With these solutions that Grubhie has to offer, achieving kitchen prowess is just a few clicks away.
 
 # Screen Previews
 ## Home Screen 
