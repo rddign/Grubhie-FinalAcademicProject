@@ -2,6 +2,10 @@
 
 Final Academic Project - Group 7
 
+#Home Screen Light and Dark mode
+![image](https://user-images.githubusercontent.com/91654653/215490497-ad043b6f-ab48-42ae-a8f8-fba04abf6e60.png)
+![image](https://user-images.githubusercontent.com/91654653/215490550-98f4f71c-2334-479d-b53a-eb906eb25070.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
